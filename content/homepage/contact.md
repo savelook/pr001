@@ -4,8 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[info@news-pro24.vercel.app](mailto:info@news-pro24.vercel.app)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+40-735-221-654](tel:+40735221654)
 
-Let us get in touch!
+Așteptați ofertele dvs.
